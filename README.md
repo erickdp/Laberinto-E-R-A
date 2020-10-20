@@ -7,3 +7,4 @@ Proyecto Final Algoritmos - Universidad Central Del Ecuador
 
 ![Generación de laberinto](https://raw.github.com/erickdp/Laberinto-E-R-A/master/ProyectoLaberinto/Manuales/Lab.png)
 
+(https://raw.github.com/erickdp/Laberinto-E-R-A/master/ProyectoLaberinto/Manuales/Fase%20de%20An%C3%A1lisis.pdf)
