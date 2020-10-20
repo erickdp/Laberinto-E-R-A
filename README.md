@@ -5,6 +5,5 @@ Proyecto Final Algoritmos - Universidad Central Del Ecuador
 - Aplicación del patrón de diseño MVC.
 - Para generar laberintos de caminos aleatorios los cuales tendrán una solución, se utilizó coordenadas en base a vecinos próximos y esquinas.
 
-![Generación de laberinto]
-(https://raw.githubusercontent.com/erickdp/Laberinto-E-R-A/master/ProyectoLaberinto/Manuales/Lab.png)
+![Generación de laberinto](https://raw.github.com/erickdp/Laberinto-E-R-A/master/ProyectoLaberinto/Manuales/Lab.png)
 
