@@ -6,5 +6,5 @@ Proyecto Final Algoritmos - Universidad Central Del Ecuador
 - Para generar laberintos de caminos aleatorios los cuales tendrán una solución, se utilizó coordenadas en base a vecinos próximos y esquinas.
 
 
-https://github.com/erickdp/Laberinto-E-R-A/blob/master/ProyectoLaberinto/Manuales/Lab.png
+https://raw.githubusercontent.com/erickdp/Laberinto-E-R-A/master/ProyectoLaberinto/Manuales/Lab.png
 
